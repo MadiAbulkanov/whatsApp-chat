@@ -1,0 +1,30 @@
+
+.form-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 60px 20px;
+    background-color: white;
+}
+
+.form-title {
+    font-size: 30px;
+}
+
+.login-button {
+    width: 300px;
+    margin: 15px auto;
+    padding: 15px;
+    border: 1px solid #25D366;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color: #25D366;
+}
+
+.login-button:hover {
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+    transition: 0.7s;
+}
